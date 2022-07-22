@@ -6,7 +6,7 @@
   "keywords": [
     "awesome"
   ],
-  "author": "deepak mishra",
+  "author": "Pawan Kumar",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.20.0",
